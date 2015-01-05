@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000173_0000_0FA2B5FD50BB62E0"/>
-            <pb facs="tcp:000173_0001_0FA2B5FE001F8268"/>
+            <pb facs="unknown:000173_0000_0FA2B5FD50BB62E0"/>
+            <pb facs="unknown:000173_0001_0FA2B5FE001F8268"/>
             <p>THE BOOK OF THE GENERAL LAWS For the People within the JVRISDICTION of CONECTICUT: Collected out of the RECORDS of the GENERAL COURT, Lately Revised, and with some Emendations and Additions Established and Pub<g ref="char:EOLhyphen"/>lished by the Authority of the GENERAL COURT of <hi>Conecticut,</hi> holden at <hi>Hartford</hi> in <hi>October, 1672.</hi>
             </p>
             <q>
@@ -125,7 +125,7 @@
             </p>
          </div>
          <div type="letter">
-            <pb facs="tcp:000173_0002_0FA2B5FEE3959A98"/>
+            <pb facs="unknown:000173_0002_0FA2B5FEE3959A98"/>
             <head>To our Beloved Brethren and Neighbours, the Inhabitants of the COLONY of Conecticut, The GENERAL COVRT of that Colony Wish Grace and Peace in our Lord JESVS.</head>
             <p>
                <seg rend="decorInit">T</seg>HE Serious Consideration of the Necessity of the Establish<g ref="char:EOLhyphen"/>ment of wholesome LAWES, for the Regulating of each Body Politick; Hath enclined us mainly in Obedience unto JEHOVAH the Great Law giver: Who hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -154,7 +154,7 @@
                   <desc>•</desc>
                </gap>ion of our Govern<g ref="char:EOLhyphen"/>ment here. We have endeavoured not onely to Ground our <hi>Capital Laws</hi> upon the <hi>Word of God,</hi> but also all our other <hi>Lawes</hi> upon the Justice and Equity held forth in that <hi>Word</hi> which is a most perfect Rule.</p>
             <p>
-               <pb facs="tcp:000173_0003_0FA2B5FF8784F510"/>Now in these our LAWS, although we may seem to vary or differ, yet <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb facs="unknown:000173_0003_0FA2B5FF8784F510"/>Now in these our LAWS, although we may seem to vary or differ, yet <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> our Purpose to Repugn the Statute Laws of <hi>England,</hi> so far as we understand them; professing our selves alwayes ready and willing to receive Light for <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -197,7 +197,7 @@
       </front>
       <body>
          <div type="laws">
-            <pb n="1" facs="tcp:000173_0004_0FA2B60064C80FB8"/>
+            <pb n="1" facs="unknown:000173_0004_0FA2B60064C80FB8"/>
             <head>THE GENERAL LAWS And LIBERTIES Of CONECTICVT COLONIE: Revised and Published by Order of the GENERAL COVRT Held at Hartford, in <hi>October</hi> 1672.</head>
             <p>
                <hi>FOrasmuch as the free Fruition of such Liberties, as Humanity, Civi<g ref="char:EOLhyphen"/>lity and Christianity call for, as due to every man, in his place and proportion, without Impeachment and Infringement hath ever been, and ever will be the Tranquility and Stability of Churches and Com<g ref="char:EOLhyphen"/>mon wealths; and the denyal or deprival thereof, the disturbance, if not ruine of both:</hi>
@@ -206,7 +206,7 @@
                      <desc>•</desc>
                   </gap>ledg that his person and e<g ref="char:EOLhyphen"/>state is secured to him according to Law.</note> shall be stay<g ref="char:EOLhyphen"/>ned, no mans person shall be Arrested, Restrained, Banished, Dismembred, nor any wayes punished; no man shall be deprived of his Wife or Children; no mans Goods or Estate shall be taken away from him, nor any wayes indama<g ref="char:EOLhyphen"/>ged under colour of Law, or countenance of Authority, unless it be by the ver<g ref="char:EOLhyphen"/>tue or equity of some express Law of this Colony warranting the same, esta<g ref="char:EOLhyphen"/>blished by the General Court, and sufficiently published; or in case of the de<g ref="char:EOLhyphen"/>fects of a Law in any particular case by some clear and plain Rule of the word of God, in which the whole Court shall concurre.</p>
             <div type="law">
-               <pb n="2" facs="tcp:000173_0005_0FA2B60172125FE8"/>
+               <pb n="2" facs="unknown:000173_0005_0FA2B60172125FE8"/>
                <head>ABILITY.</head>
                <p>
                   <note place="margin">Ability to dis<g ref="char:EOLhyphen"/>pose or estates</note>IT is Ordered by the Authority of this Court; That all persons of the age of <hi>Twenty one</hi> years, and of right understanding and memory, whether exco<g ref="char:EOLhyphen"/>municated or other,<note place="margin">Condemned per<g ref="char:EOLunhyphen"/>son estates to be disposed of by the Court, &amp;c.</note> shall have full power and liberty to make their Wills and Testaments, and other lawful Alienations of their Lands and Estates; alwayes provided, that such persons who are condemned to Dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -252,7 +252,7 @@
                <head>ADVLTERY.</head>
                <p>
                   <note place="margin">Adultery how punished</note>IT is Ordered By this Court and the Authority thereof; That whosoever shall commit Adultery with a Married Woman, or one betrothed to another
-<pb n="3" facs="tcp:000173_0006_0FA2B603D3B9CE00"/>
+<pb n="3" facs="unknown:000173_0006_0FA2B603D3B9CE00"/>
 man, both of them shall be severely punished by whipping on the naked Body, and Stigmatized or Burnt on the Forehead with the Letter A. on a hot Iron, and he or she shall wear a Halter about his or her neck on the outside of their Garments, during his or her abode in this Colony, so as it may be visible; and as often as he or she shall be found without their Halters worne as aforesaid, they shall upon information and proof of the same made before any Assistant or Commissioner, be by them ordered to be whipt.</p>
             </div>
             <div type="law">
@@ -279,7 +279,7 @@ man, both of them shall be severely punished by whipping on the naked Body, and 
             <div type="law">
                <head>APPEALS.</head>
                <p>IT is Ordered by the Authority of this Court; That if any person shall be agrieved with the sentence of any inferiour Court, Assistant or Commissioner
-<pb n="4" facs="tcp:000173_0007_0FA2B60539A6BE48"/>
+<pb n="4" facs="unknown:000173_0007_0FA2B60539A6BE48"/>
 he may remove his case to the next County Court in that County where his case was first heard;<note place="margin">Liberty of appeal from one Assist. or Comission. &amp;c to the Count. Co</note> Provided he give in good security to prosecute his case at the said County Court.</p>
                <p>It is also Ordered; That if any person or persons be agrieved with the issue, sentence,<note place="margin">Liberty of appeal from a Coun. Co. to the Court of Assistants Proviso in which case ex<g ref="char:EOLhyphen"/>ecution is to be respited</note> or determination of any County Court, he or they shall have liberty to Appeal to the next Court of Assistants, provided, he give in good security to prosecute his Appeal, and pay all Costs: In which case Execution shall be respited till the issue of the case; and for every Appeal to the Court of Assi<g ref="char:EOLhyphen"/>stants, there shall be paid <hi>twenty shillings</hi> to the Publick Treasury.</p>
                <p>
@@ -312,7 +312,7 @@ he may remove his case to the next County Court in that County where his case wa
                   <hi>To prevent inconveniencies, and that Creditors may be satisfied, in a suitable way, according to the nature of their Contracts and Bargains.</hi>
                </p>
                <p>It is Ordered by this Court; That it shall be lawful for such Creditors that
-<pb n="5" facs="tcp:000173_0008_0FA2B6058564B4F0"/>
+<pb n="5" facs="unknown:000173_0008_0FA2B6058564B4F0"/>
 have Debts owing to them in Money, Corn, Provision, or other special pay, upon the refu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>al or non payment of such Debts when they are due,<note place="margin">Attachments for special pay</note> to take out an Attachment, and to lay it (if it can be found) upon such Estate as is enga<g ref="char:EOLhyphen"/>ged, or any other Estate of the Debtors, such as the Creditor liketh, provided it be not prohibited by Law, and to secure the Estate so seized unto a Tryal at the next Court appointed for that end, and what ever Estate thus Attached,<note place="margin">Court to appoint Prizet<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -349,7 +349,7 @@ have Debts owing to them in Money, Corn, Provision, or other special pay, upon t
                <p>IT is Ordered by the Authority of this Court; That if any man be proved and adjudged a common Barrater, vexing others with unjust,<note place="margin">Barratry &amp;c. case to be rejected &amp;c</note> frequent and needless suits; it shall be in the power of any Court both to reject his Cause, and punish him for his Barratry.</p>
             </div>
             <div type="law">
-               <pb n="6" facs="tcp:000173_0009_0FA2B60649591CB8"/>
+               <pb n="6" facs="unknown:000173_0009_0FA2B60649591CB8"/>
                <head>BASTARDY.</head>
                <p>
                   <hi>THere being as yet no stated Rule by this Court Ordered touching the reputed Father of a Bastard, for legal conviction:</hi>
@@ -395,7 +395,7 @@ have Debts owing to them in Money, Corn, Provision, or other special pay, upon t
                   </gap>ury; Provided all breaches of this Law be com<g ref="char:EOLunhyphen"/>plained of, and prosecuted within six moneths after the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> is committed
-<pb n="7" facs="tcp:000173_0010_0FA2B60704D53690"/>
+<pb n="7" facs="unknown:000173_0010_0FA2B60704D53690"/>
 And the Owners of all impropriated Grounds, shall bound every particular parcel thereof with sufficient Mear-stones,<note place="margin">Impropriated Grounds bound<g ref="char:EOLhyphen"/>ed with Mear-stones penalty</note> and shall preserve and keep them so, upon the penalty of forfeiting <hi>ten shillings per moneth.</hi>
                </p>
             </div>
@@ -483,7 +483,7 @@ And the Owners of all impropriated Grounds, shall bound every particular parcel 
                   <hi>FOrasmuch as many Persons are apt to be injurious to the Goods and Lives of others, notwithstanding all care and means to prevent and punish the same;</hi>
                </p>
                <p>
-                  <pb n="8" facs="tcp:000173_0011_0FA2B607CECE8ED0"/>It is therefore Ordered by this Court and the Authority thereof; That if any person shall commit Burglary,<note place="margin">Burglary to be punished 1st. of<g ref="char:EOLhyphen"/>fen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <pb n="8" facs="unknown:000173_0011_0FA2B607CECE8ED0"/>It is therefore Ordered by this Court and the Authority thereof; That if any person shall commit Burglary,<note place="margin">Burglary to be punished 1st. of<g ref="char:EOLhyphen"/>fen<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>
                   </note> by breaking up any Dwelling House, or shall Rob any person in the Field or High wayes, such a person so offending, for the first offence, shall be Br<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -568,7 +568,7 @@ And the Owners of all impropriated Grounds, shall bound every particular parcel 
                   </gap>be to all Laws and penalties as others.</p>
             </div>
             <div type="laws">
-               <pb n="9" facs="tcp:000173_0012_0FA2B60877F6F338"/>
+               <pb n="9" facs="unknown:000173_0012_0FA2B60877F6F338"/>
                <head>Capital Laws.</head>
                <p>IF any Man or Woman after legal conviction shall Have or Worship any o<g ref="char:EOLhyphen"/>ther God but the Lord God, he shal be put to death.<note place="margin">
                      <hi>Idolatry.</hi>
@@ -659,7 +659,7 @@ And the Owners of all impropriated Grounds, shall bound every particular parcel 
                      </gap>.</hi> Exod, <hi>21.15.</hi>
                </p>
                <p n="15">15. If any man have a stubborn or rebellious Son, of sufficient understand<g ref="char:EOLhyphen"/>ing and years, <hi>viz sixteen years of age,</hi> which will not obey the voice of his
-<pb n="10" facs="tcp:000173_0013_0FA2B60935C65F68"/>
+<pb n="10" facs="unknown:000173_0013_0FA2B60935C65F68"/>
 Father, or the voice of his Mother, and that when they have chastened him, he will not hearken unto them; then nay his Father or Mother, being his natural Parents lay hold on him, and bring him to the Magistrates assembled in Court, and testifie unto them,<note place="margin">Rebellious <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -718,7 +718,7 @@ Father, or the voice of his Mother, and that when they have chastened him, he wi
                <head>Common-Fields and Fences.</head>
                <p>
                   <hi>WHereas the condition of these Plantations in these beginnings wherein we are, in such, that necessity constrains to improve much of the ground belong<g ref="char:EOLhyphen"/>ing to the several Towns in a Common way, and whereas the publick and general
-<pb n="11" facs="tcp:000173_0014_0FA2B609F6E06A88"/>
+<pb n="11" facs="unknown:000173_0014_0FA2B609F6E06A88"/>
 good (which ought to be attended in all such Improvements as are most proper to them, and may best advance the same) may receive much prejudice through want of a prudent ordering and disposing of those several Common Lands, so as it may best effect the same.</hi> It is Ordered by the Authority of this Court;<note place="margin">Select men to be annually chosen</note> That each Town in this Colony, shall from time to time yearly chuse Three, Four, or Se<g ref="char:EOLhyphen"/>ven of their discreet men to be their Select men,<note place="margin">Their power con<g ref="char:EOLunhyphen"/>cerning the orde<g ref="char:EOLunhyphen"/>ring the improve<g ref="char:EOLunhyphen"/>ment of com<g ref="char:EOLhyphen"/>mon Lands</note> to Order the prudential affairs of their Town; who by this Order are impowred and required seriously to consider and determine according to their best skill, in what way the said Com<g ref="char:EOLhyphen"/>mon Lands in their several and respective Plantations may be best improved for the Common Good, and whatsoever is so determined by the said Select men, or the Major part of them in each Town concerning the way of Improve<g ref="char:EOLhyphen"/>ment of any such Lands, shall be attended by all such persons that have any pro<g ref="char:EOLhyphen"/>priety or Interest in any such Lands so judged by the Select men.</p>
                <p>
                   <hi>And whereas much damage may arise not only from the unruliness of some kind of Cattle, but also from the weakness and insufficiency of many Fen<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -753,7 +753,7 @@ good (which ought to be attended in all such Improvements as are most proper to 
                   <hi>WHereas it appears, that divers to defeat and defraud their Creditors, may secretly and under-hand make Bargains and Contra<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>s of their Lands, Lotts, and Accomodations, by means whereof, when the Creditor thinks he hath a means in due Order of Law to declare against the said Lands, Lotts and Ac<g ref="char:EOLhyphen"/>comodations, and so recover satisfaction for his Debt, he is wholly deluded and
-<pb n="12" facs="tcp:000173_0015_0FA2B60AB5DD5650"/>
+<pb n="12" facs="unknown:000173_0015_0FA2B60AB5DD5650"/>
 frustrated, which is contrary to a righteous Rule, that every man shall pay his debt with his Estate, be it what it will be, either real or personal;</hi>
                </p>
                <p>It is therefore Ordered by this Court and the Authority thereof; That if any Creditor for the future do suspect his Debtor,<note place="margin">Against Debtors non solvant</note> that he may prove <hi>non solvant</hi> in his personal Estate, he may repair to the Register or Recorder of the Plantation where the Lands,<note place="margin">Caveat enter a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -814,7 +814,7 @@ frustrated, which is contrary to a righteous Rule, that every man shall pay his 
                   </gap> Lots and Accomodations aforesaid.</p>
             </div>
             <div type="law">
-               <pb n="13" facs="tcp:000173_0016_0FA2B60F22B2B4A8"/>
+               <pb n="13" facs="unknown:000173_0016_0FA2B60F22B2B4A8"/>
                <head>Causes, Small Causes.</head>
                <p>
                   <hi>FOr the benefit of the Inhabitants of this Colony, and that our Courts may be eased of the trouble of small Causes;</hi>
@@ -852,7 +852,7 @@ frustrated, which is contrary to a righteous Rule, that every man shall pay his 
                      </gap> be taught to read</note> That the Select-men of every Town in this Jurisdiction, in their several precincts and quarters shall have a vigilant eye over their Brethren and Neighbours, to see that none of them shall suffer so much Barbarisme in any of their Families, as not to en<g ref="char:EOLhyphen"/>deavour by themselves, or others, to teach their Children and Apprentices so much learning as may enable them perfectly to reade the English Tongue, and knowledge of the Capital Laws, upon penalty of <hi>twenty shillings</hi> neglect therein: Also that all Masters of Families do once a week at least,<note place="margin">and Catechised</note> Catechise their Children and Servants in the Grounds and Principles of Religion; and if any be unable to do so much, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> then at the least they procure such Children and Apprentices to learn some short Orthodox Catechisme without book, that they may be able to answer to the Questions that shall be propounded to them out of such Catechisme, by their Parents or Masters, or any of the Select-men, when they shall call them to an accompt of what they have learned in that kinde. And further,<note place="margin">Children to be brought up in some calling</note> that all Parents and Masters do breed and bring up their Children and Apprentices in some honest and lawful calling, labour or imploy<g ref="char:EOLhyphen"/>ment, profitable for themselves and the Colony; if they will not or cannot train them up in learning to fit them for higher imployments; and if any of the Se<g ref="char:EOLhyphen"/>lect-men after Admonition by them given to such Masters of Families, shall finde them still negligent of their duties in the particulars afore-mentioned,<note place="margin">unruly chil to be placed out &amp;c</note> whereby Children and Servants grow rude, stubborn, and unruly, the said Se<g ref="char:EOLhyphen"/>lect-men, with the help of two Magistrates, shall take such Children and Ap<g ref="char:EOLhyphen"/>prentices from them, and place them with some Masters for years, Boyes till
-<pb n="14" facs="tcp:000173_0017_0FA2B610B80241C0"/>
+<pb n="14" facs="unknown:000173_0017_0FA2B610B80241C0"/>
 they come to <hi>twenty one,</hi> and Girls <hi>eighteen years</hi> of age compleat, which will more strictly look unto,<note place="margin">Boyes till 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>. y. &amp; Girls 18 years of age</note> and force them to submit unto Government according to the Rules of this Order, if by fair means and former instructions they will not be drawn to it.</p>
@@ -886,7 +886,7 @@ they come to <hi>twenty one,</hi> and Girls <hi>eighteen years</hi> of age compl
                   <note place="margin">Const. to be cho<g ref="char:EOLhyphen"/>sen the 1st of Ja<g ref="char:EOLhyphen"/>nuary yearly</note> and sworn to that Of<g ref="char:EOLhyphen"/>fice the next Court following or by some Magistrate or Magistrates.</p>
                <p>
                   <note place="margin">Offenders to be conveyed from Const. to Constab</note>It is Ordered by the Authority of this Court; That any person tendred to any Constable of this Jurisdiction by any Constable or other Officer belong<g ref="char:EOLhyphen"/>ing to any of our Neighbour Colonies, or by Warrant from any their Authori<g ref="char:EOLhyphen"/>ty, such shall presently be received, and conveyed forthwith from Constable to Constable until they shall be brought unto the place to which they are sent, or
-<pb n="15" facs="tcp:000173_0018_0FA2B6134F287E40"/>
+<pb n="15" facs="unknown:000173_0018_0FA2B6134F287E40"/>
 before some Magistrate of this Jurisdiction, who shall dispose of him or them as the justice of the case shall require, and that all Hue and Cries shall be duely received, and diligently pursued to full effect.</p>
                <p>It is also Ordered;<note place="margin">constab. where no Magist. is to make Hue &amp; Cries &amp;c. For murtherers &amp;c to apprehend without warrant Drunkards &amp;c</note> That every Constable within our Jurisdiction shall hence<g ref="char:EOLhyphen"/>forth have full power to make, sign, and put forth Pursuits, or Hue and Cries after Murtherers, Malefactors, Peace-breakers, Thieves, Robbers, Burglaters and other Capital Offenders where no Magistrate is near hand, also to Appre<g ref="char:EOLhyphen"/>hend without Warrant such as are overtaken with Drink, Swearing, Sabbath-breaking, Slighting of the Ordinances, Lying, Vagrant persons, Night-wal<g ref="char:EOLhyphen"/>kers, or any others that shall offend in any of these;<note place="margin">also to make search for them Apprehend and secure</note> provided they be taken in the manner, either by sight of the Constable or by present information from some other, as also to make search for all such persons either on the Sabbath day or other, when there shall be occasion in all Houses licensed either to sell Beer or Wine, or in any other suspected or disordered places, and those to ap<g ref="char:EOLhyphen"/>prehend and keep in safe custody, till opportunity serves to bring them before one of the next Magistrates for further examination; Provided, that when any Constable is imployed by any of the Magistrates for apprehending of any person, he shall not do it without a Warrant in writing;<note place="margin">Constables to be assisted</note> and if any person shall refuse to assist any Constable in the execution of his Office, in any of the things before-mentioned, being by him required thereunto, they shall pay for neglect thereof <hi>ten shillings</hi> to the use of the Country,<note place="margin">on penalty of 10. s.</note> to be levyed by War<g ref="char:EOLhyphen"/>rant from any Magistrate before whom any such Offender shall be brought, and if it appear that any shall wilfully, obstinately or contemptuously refuse or neglect to assist any Constable as is before expressed, he shall pay to the use of the Country <hi>forty shillings</hi>: and if any Constable,<note place="margin">wilful neglect 40. s</note> or any other upon urgent oc<g ref="char:EOLhyphen"/>casion shall refuse to do their best endeavour in raising and prosecuting Hue and Cries by foot,<note place="margin">Constables &amp;c neglect to prose<g ref="char:EOLhyphen"/>cute hue &amp; cries 40. s penalty</note> and if need be by horse after such as have committed Capital Crimes, they shall forfeit to the use aforesaid, for every such offence <hi>forty shil<g ref="char:EOLhyphen"/>lings.</hi>
                </p>
@@ -919,7 +919,7 @@ before some Magistrate of this Jurisdiction, who shall dispose of him or them as
                         <desc>•</desc>
                      </gap>
                      <g ref="char:EOLhyphen"/>nalty 40 s &amp;c</note> upon penalty of <hi>forty shillings fine</hi> for every defect herein; and the Treasurer is hereby Authorized to send forth his Warrant to distrain the Estates of the respective Constables for the payment of such
-<pb n="16" facs="tcp:000173_0019_0FA2B614A6D42B98"/>
+<pb n="16" facs="unknown:000173_0019_0FA2B614A6D42B98"/>
 forfeitures as shall be due from them for the breach of this Order.</p>
                <p>It is further Ordered by this Court; That the Constables in the several Plan<g ref="char:EOLhyphen"/>tations are hereby impowred to charge the Watch and Ward in his Majesties Name (or in the Name of the Authority here established by his Majesty) due<g ref="char:EOLunhyphen"/>ly and faithfully to attend their Watch and Ward,<note place="margin">Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -961,7 +961,7 @@ forfeitures as shall be due from them for the breach of this Order.</p>
                   </gap>um<g ref="char:EOLhyphen"/>mons served on him in that County where he lives, to Answer a Case in another County Court; And if the Plaintiff and Defendant live in the same County, the Tryal of the case betwixt such persons shall be first in the County where they both live, except by mutual consent they agree otherwise; And in such case where the Plaintiffe and Defendant do not live in the same County, it shall be in the power of the Plaintiffe to begin his Action or Suit in which County Court he pleaseth; Provided, he serves his Process in that County where his case shall first be heard.</p>
             </div>
             <div type="law">
-               <pb n="17" facs="tcp:000173_0020_0FA2B61541CF3608"/>
+               <pb n="17" facs="unknown:000173_0020_0FA2B61541CF3608"/>
                <head>COVRTS.</head>
                <p>IT is Ordered by the Authority of this Court; That there shall be yearly two General Courts or Assemblies, the one the second thursday in <hi>May,</hi>
                   <note place="margin">Two Gen. Courts annually to be held in Hartford</note> the o<g ref="char:EOLunhyphen"/>ther the second thursday in <hi>October,</hi> both which shall be holden at <hi>Hartford</hi> at all times, unless it be upon occasion of Epidemical diseases, Sickness or the like: the first shall be called the Court of Election,<note place="margin">The 1st. the 2d thursday in May to be called the Court of <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1008,7 +1008,7 @@ forfeitures as shall be due from them for the breach of this Order.</p>
                   </note> upon necessary occasion to adjourn the said Court.</p>
                <p>It is further Ordered; That the Governour or Deputy Governour have here<g ref="char:EOLhyphen"/>by power granted them to call a special Court of Assistants upon any extraordi<g ref="char:EOLhyphen"/>nary occasion.</p>
                <p>
-                  <pb n="18" facs="tcp:000173_0021_0FA2B616050C82D0"/>
+                  <pb n="18" facs="unknown:000173_0021_0FA2B616050C82D0"/>
                   <note place="margin">Hartford <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ounty Courts are in the 1st thursday of March, 1st thurs<g ref="char:EOLhyphen"/>day of Septemb:</note>It is also Ordered by the Authority of this Court; That there shall be two County Courts yearly held in <hi>Hartford,</hi> the one the first thursday in <hi>March,</hi> the other the first thursday in <hi>September,</hi> by any three or more of the Assistants, to hear and determine by a Jury, or otherwise according to Law all Causes civil and criminal, not extending to Life, Limb or Banishment; the Juries for this Court to be summoned out of the neighbour Towns, and the Marshal to give his attendance there.</p>
@@ -1044,7 +1044,7 @@ forfeitures as shall be due from them for the breach of this Order.</p>
                <p>IT is Ordered by the Authority of this Court; That no man shall exercise any Cruelty towards any Bruit Creature,<note place="margin">Cruelty to be punished &amp;c</note> which are usually kept for the use of man, upon pain of such punishment as in the judgement of the Court the na<g ref="char:EOLhyphen"/>ture of the offence shall deserve.</p>
             </div>
             <div type="law">
-               <pb n="19" facs="tcp:000173_0022_0FA2B616B8ADD788"/>
+               <pb n="19" facs="unknown:000173_0022_0FA2B616B8ADD788"/>
                <head>Damages Pretended.</head>
                <p>IT is Ordered by the Authority of this Court,<note place="margin">Damage preten<g ref="char:EOLhyphen"/>ded</note> That no man in any Suit or Action against another, shall falsly pretend great Damages, or Debts to vex his Adversary; and if it shall appear any doth so, the Court shall have Power to set a suitable Fine on him.</p>
             </div>
@@ -1075,7 +1075,7 @@ forfeitures as shall be due from them for the breach of this Order.</p>
             <div type="law">
                <head>Debts, Book-debts when to determine. &amp;c.</head>
                <p>IT is by this Court Ordered, that all such Debts as are now standing out, or that hereafter shall be made,<note place="margin">Book debts to be accompted for within 3 years af<g ref="char:EOLunhyphen"/>ter made &amp;c or else not plead<g ref="char:EOLunhyphen"/>able after the time specified in the order</note> and that shall not within <hi>three yeares</hi> after the <hi>first of Iune</hi> 1673. Or within <hi>three yeares</hi> after such Debt as here<g ref="char:EOLhyphen"/>after shall be made, be accounted for, or Ballanced with the originall debtor or his Attourney, Agent, Assigne, or other Lawfull Successor or Substitute, and an account or ballance thereof, assured by Specialty given for it, or witnes<g ref="char:EOLhyphen"/>sed by subscribing the Debtor or other Accomptants name to the Creditors Book, or the Subscription of the Witnesses to such Accompt, shall not be pleadable in any Court, unless such Book debt shall within the time before li<g ref="char:EOLhyphen"/>mited be prosecuted or proved in such Court as hath proper cognizance there<g ref="char:EOLhyphen"/>of
-<pb n="20" facs="tcp:000173_0023_0FA2B6178335A3D8"/>
+<pb n="20" facs="unknown:000173_0023_0FA2B6178335A3D8"/>
 by competent evidence approved by the Court, and the evidence there Re<g ref="char:EOLhyphen"/>corded, and the Record thereof shall secure the Creditor, his Executors, Ad<g ref="char:EOLhyphen"/>ministrators and Assigns, unless the Debtor or his Assign shall disapprove the same within one year after such proof made or recovery of the said Debt: If such Debtor, his or her Agent, Attourny, Assign, Substitute, Executor Admi<g ref="char:EOLhyphen"/>nistrator, or other lawful Successor, be or shall be within this Jurisdiction, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> elsewhere, and have due notice from the Creditor thereof.</p>
@@ -1140,7 +1140,7 @@ by competent evidence approved by the Court, and the evidence there Re<g ref="ch
             <div type="law">
                <head>DISTRESSE.</head>
                <p>IT is Ordered by the Authority of this Court; That no Mans Corn or Hay that is in the field, or upon the Cart, nor his Garden stuffe, nor any other
-<pb n="21" facs="tcp:000173_0024_0FA2B618F851D4D8"/>
+<pb n="21" facs="unknown:000173_0024_0FA2B618F851D4D8"/>
 thing subject to present decay shall be taken in any Distress, unless he that takes it doth presently bestow it where it may not be imbezeled, nor suffer spoil or decay, or give security to satisfie the worth thereof if it comes to any harm.</p>
             </div>
             <div type="law">
@@ -1184,7 +1184,7 @@ thing subject to present decay shall be taken in any Distress, unless he that ta
                      <desc>•</desc>
                   </gap>ight in an orderly way doth appear. But yet forasmuch as sun<g ref="char:EOLhyphen"/>dry persons of worth for prudence and piety amongst us are otherwise per<g ref="char:EOLhyphen"/>swaded (whose welfare and peaceable satisfaction we desire to accomodate) This Court doth Declare; That all such persons,<note place="margin">with liberty to those of different perswasion &amp;c</note> being so approved according to Law, as Orthodox and Sound in the Fundamentals of Christian Religion, may have allowance in their perswasion and Profession in Church wayes or Assemblies without disturbance.</p>
                <p>
-                  <pb n="22" facs="tcp:000173_0025_0FA2B619C1CA57F0"/>
+                  <pb n="22" facs="unknown:000173_0025_0FA2B619C1CA57F0"/>
                   <hi>Forasmuch as the open Contempt of Gods Word and Messengers thereof is the desolating sin of Civil States and Churches, and the Preaching of the Word by those whom God doth send is the chief ordinary means ordained by God for the converting, edifying and saving the Souls of the Elect, through the Presence and power of the Holy Ghost thereunto promised, and that the Ministry of the Word it set up by God in his Churches for those holy ends, and according to the respect or contempt of the same, and of those whom God hath set apart for his own work and imployment, the Weal or Woe of all Christian states is much furthered and pro<g ref="char:EOLhyphen"/>moted;</hi>
                </p>
                <p>
@@ -1217,7 +1217,7 @@ thing subject to present decay shall be taken in any Distress, unless he that ta
                   <hi>THis Court being sensible of the great charge, difficulty and expense of time the Freemen of this Colony have been at in their personal attendance the Election at Hartford, and considering the many inconveniencies that otherwise may arise upon the yearly day of Election, and that the work of that day may be the more orderly, easily and speedily issued;</hi>
                </p>
                <p>Do Order; That henceforth all the Freemen of this Colony, without any
-<pb n="23" facs="tcp:000173_0026_0FA2B61ADE4D3B90"/>
+<pb n="23" facs="unknown:000173_0026_0FA2B61ADE4D3B90"/>
 other summons from year to year shall or may upon the second thursday in <hi>May</hi> yearly,<note place="margin">The Freemen in person <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> proxy to <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1315,7 +1315,7 @@ other summons from year to year shall or may upon the second thursday in <hi>May
                   <hi>WHereas by reason of the great scarcity of Money, Executions being ta<g ref="char:EOLhyphen"/>ken of several persons Goods that have been sold at very cheap rates to the extream damage of the Debtor;</hi>
                </p>
                <p>
-                  <pb n="24" facs="tcp:000173_0027_0FA2B61BAA635D38"/>It is therefore Ordered by the Authority of this Court; That after publi<g ref="char:EOLhyphen"/>cation hereof,<note place="margin">How persons are to be chosen that are to be appri<g ref="char:EOLhyphen"/>zers</note> whatsoever Execution shall be granted for any Debts after Judgement, the Creditor shall make choice of one party, the Debtor of a se<g ref="char:EOLhyphen"/>cond, and the Officer of a third, who shall prize the Goods so taken upon exe<g ref="char:EOLhyphen"/>cution,<note place="margin">All apprizers to be upon Oath</note> which the Officer shall deliver to the Creditor; this course to be taken except in such cases where the Court doth appoint Apprizers, and all Appri<g ref="char:EOLhyphen"/>zers shall be upon their Oath.</p>
+                  <pb n="24" facs="unknown:000173_0027_0FA2B61BAA635D38"/>It is therefore Ordered by the Authority of this Court; That after publi<g ref="char:EOLhyphen"/>cation hereof,<note place="margin">How persons are to be chosen that are to be appri<g ref="char:EOLhyphen"/>zers</note> whatsoever Execution shall be granted for any Debts after Judgement, the Creditor shall make choice of one party, the Debtor of a se<g ref="char:EOLhyphen"/>cond, and the Officer of a third, who shall prize the Goods so taken upon exe<g ref="char:EOLhyphen"/>cution,<note place="margin">All apprizers to be upon Oath</note> which the Officer shall deliver to the Creditor; this course to be taken except in such cases where the Court doth appoint Apprizers, and all Appri<g ref="char:EOLhyphen"/>zers shall be upon their Oath.</p>
             </div>
             <div type="law">
                <head>Execution upon Delinquents.</head>
@@ -1351,7 +1351,7 @@ other summons from year to year shall or may upon the second thursday in <hi>May
                <p>It is therefore Ordered by this Court; That in each Town in this Colony, there shall be yearly chosen two men,<note place="margin">Fence viewers to be annually cho<g ref="char:EOLhyphen"/>sen and sworn</note> who shall be sworn to a due Execution of that work aforesaid, who are hereby impowred to fine neglects in making or repairing Fences according to the nature of the defects, and to levy the the fines, and to deliver it to the Towns<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>men for the use of the Town; and if
-<pb n="25" facs="tcp:000173_0028_0FA2B61D321F5068"/>
+<pb n="25" facs="unknown:000173_0028_0FA2B61D321F5068"/>
 any person chosen to this work shall refuse or neglect to attend the same, he shall forfeit <hi>twenty shillings</hi> to the Town Treasury where he inhabits,<note place="margin">the penalty of refusing to ac<g ref="char:EOLhyphen"/>cept the office 20. s</note> unless he can make it appear that he is oppressed by his choice, and that others are un<g ref="char:EOLhyphen"/>justly exempted.</p>
             </div>
             <div type="law">
@@ -1381,7 +1381,7 @@ any person chosen to this work shall refuse or neglect to attend the same, he sh
                      </gap>lory &amp; paying double damages to the wronged party</note> That if any person shall Forge any Deed or Conveyance, Testament, Bond, Bill, Release Ac<g ref="char:EOLunhyphen"/>quittance, Letter of Attorney, or any other writing to prevent Equity and Ju<g ref="char:EOLhyphen"/>stice, he shall stand in the Pillory three several Lecture dayes or publick meet<g ref="char:EOLhyphen"/>ings, and render double damages to the parties or party wronged thereby, and also be disenabled to give any evidence or verdict in any Court, or before any Magistrate.</p>
             </div>
             <div type="law">
-               <pb n="26" facs="tcp:000173_0029_0FA2B61D7A1DBF20"/>
+               <pb n="26" facs="unknown:000173_0029_0FA2B61D7A1DBF20"/>
                <head>FORNICATION.</head>
                <p>
                   <note place="margin">Fornication how to be punished</note>IT is Ordered by the Authority of this Court; That if any man shall com<g ref="char:EOLhyphen"/>mit Fornication with any single Woman, they shall be punished, either by enjoyning to Marriage, or fine, or Corporal punishment, or all, or any of these, as the Court or Magistrates shall judge most agreeable to the Word of God.</p>
@@ -1419,7 +1419,7 @@ any person chosen to this work shall refuse or neglect to attend the same, he sh
                </p>
                <p>
                   <note place="margin">Shuffle board prohibited</note>It is therefore Ordered by the Authority of this Court; That no person shall henceforth use the said Game of Shuffle-board, or any other Game in any such House, nor in any other House used as common for such purpose, upon
-<pb n="27" facs="tcp:000173_0030_0FA2B620241CA8D0"/>
+<pb n="27" facs="unknown:000173_0030_0FA2B620241CA8D0"/>
 the penalty for every keeper of such house to forfeit for every such Offence <hi>twenty shillings,</hi>
                   <note place="margin">Pen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1490,7 +1490,7 @@ the penalty for every keeper of such house to forfeit for every such Offence <hi
                         <desc>•</desc>
                      </gap> have power to reprieve a con<g ref="char:EOLunhyphen"/>demned malefact.</note> or any three Assistants concurring, shall have power to Reprieve a condemned Malefactor to the next General Court.</p>
                <p>
-                  <pb n="28" facs="tcp:000173_0031_0FA2B6219D6F8D90"/>It is also Ordered; That the Governour, and in his absence the Deputy Go<g ref="char:EOLhyphen"/>vernour shall have a casting voice whensoever an equi-vote shall fall out in the Court of Assistants or General Court,<note place="margin">the Gov. &amp; Presid to have a casting vote &amp;c</note> so shall the President or Moderator have in all civil Courts or Assemblies.</p>
+                  <pb n="28" facs="unknown:000173_0031_0FA2B6219D6F8D90"/>It is also Ordered; That the Governour, and in his absence the Deputy Go<g ref="char:EOLhyphen"/>vernour shall have a casting voice whensoever an equi-vote shall fall out in the Court of Assistants or General Court,<note place="margin">the Gov. &amp; Presid to have a casting vote &amp;c</note> so shall the President or Moderator have in all civil Courts or Assemblies.</p>
             </div>
             <div type="law">
                <head>HERETICKS.</head>
@@ -1532,7 +1532,7 @@ the penalty for every keeper of such house to forfeit for every such Offence <hi
                      </gap> dayes notice to be given</note> as he finds most advantagious to the publick occasions, he or they giving at least three dayes notice or warning before hand of such <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>mployment, and if any re<g ref="char:EOLhyphen"/>fuse
-<pb n="29" facs="tcp:000173_0032_0FA2B62209D833E0"/>
+<pb n="29" facs="unknown:000173_0032_0FA2B62209D833E0"/>
 or neglect to attend the service in any manner aforesaid, he shall forfeit for every dayes neglect of a mans work <hi>three shillings,</hi> and of a Team <hi>six shil<g ref="char:EOLhyphen"/>lings,</hi> which said fines shall be imployed by the Surveyors, to hire others to work in the said wayes:<note place="margin">penalty every p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>rsons negl<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1578,7 +1578,7 @@ or neglect to attend the service in any manner aforesaid, he shall forfeit for e
                         <desc>〈1 paragraph〉</desc>
                      </gap>
                   </note> unless he be of comely proportion, and sufficient stature, not less then thirteen hands high, reckoning four inches to a hand, and be viewed and allowed by the major part of the Se<g ref="char:EOLunhyphen"/>lect men of the Town where the owner liveth; and if any person or persons turn any Stone Horse upon the Commons, or at liberty, or in the Woods, being not viewed and allowed as before, he or they shall forfeit <hi>twenty shillings</hi> a moneth for every Stone horse running at liberty after he is two years old, which penalty the Select men are to order the levying thereof, and imploy it to the
-<pb n="30" facs="tcp:000173_0033_0FA2B622C0E873D0"/>
+<pb n="30" facs="unknown:000173_0033_0FA2B622C0E873D0"/>
 Town use: And if the Select-men neglect their duty herein, they shall forfeit <hi>twent<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> shillings</hi> for every defect to the County Treasury.</p>
@@ -1619,7 +1619,7 @@ Town use: And if the Select-men neglect their duty herein, they shall forfeit <h
             <div type="law">
                <head>Husbands and Wives not to live separate.</head>
                <p>IT is Ordered by this Court; That no Man or Woman that hath a Wife or Husband in forreign parts, shall abide in the Colony so separate above two
-<pb n="31" facs="tcp:000173_0034_0FA2B623A75C2C00"/>
+<pb n="31" facs="unknown:000173_0034_0FA2B623A75C2C00"/>
 years, nor shall any that have been three years allready separated,<note place="margin">Husbands and wives not to <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> separate a<g ref="char:EOLunhyphen"/>bove 2 years penalty 40 s per month</note> abide in this Colony, to separate above one year without liberty from this Court upon pe<g ref="char:EOLhyphen"/>nalty of <hi>forty shillings, per moneth</hi> for each transgression of this order, one third part whereof shall be to the informer, the other part to the publick Treasury.</p>
@@ -1645,7 +1645,7 @@ years, nor shall any that have been three years allready separated,<note place="
                      </gap>
                   </note> and in seizing and Transporting such Wine and Liquors for the use of the publick, shall forfeit <hi>Ten Shillings</hi> to the publick Treasury, and all Forfeitures upon this Order shall go one half to the Custome Master, and the other half to the Treasury.</p>
                <p>
-                  <pb n="32" facs="tcp:000173_0035_0FA2B624F02F5F78"/>
+                  <pb n="32" facs="unknown:000173_0035_0FA2B624F02F5F78"/>
                   <note place="margin">Customs to re<g ref="char:EOLhyphen"/>main to the <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> use</note>It is also Ordered; That the Custome of Wine and Liquors shall be and re<g ref="char:EOLhyphen"/>main to thy use of that County in which those Goods are landed.</p>
@@ -1680,7 +1680,7 @@ years, nor shall any that have been three years allready separated,<note place="
                </p>
                <p>It is therefore Ordered by this Court; (according to the conclusions of the Commissioners of the United Colonies at <hi>New-Haven,</hi>
                   <note place="margin">Indians that of<g ref="char:EOLhyphen"/>fend to be seized</note> Anno. 1646.) That in such cases the Magistrates may at the charge of the Plaintiffe, send some convenient strength of English, and according to the nature and value of the of<g ref="char:EOLhyphen"/>fence and damage, seize and bring away any of that Plantation of Indians that shall entertain,<note place="margin">with those that protect them,</note> protect or rescue the offender, though it should be in another Ju<g ref="char:EOLhyphen"/>risdiction, when through distance of place, commission or direction cannot be
-<pb n="33" facs="tcp:000173_0036_0FA2B624FA8195B8"/>
+<pb n="33" facs="unknown:000173_0036_0FA2B624FA8195B8"/>
 had from them after notice and due warning given them as abbettors, or at least accessary to the Injury and dammage done to the English.<note place="margin">Women &amp; chil<g ref="char:EOLhyphen"/>dren to be s<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>a<g ref="char:EOLhyphen"/>ringly seized</note> Only women and children to be sparingly seized, unless known to be some way guilty; and because it will be chargeable keeping Indians in prison, and if they should escape, they are like to prove more Insolent and dangerous after; It is thought fit that upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1735,7 +1735,7 @@ had from them after notice and due warning given them as abbettors, or at least 
                      </gap>
                   </note> hath hereby power granted him to secure such Indian or Indians by committing them to Prison, or setting a Watch upon them till they may have opportunity to heare and issue such complaints; This order to be published to the Indians in or about each plantation in this Colony.</p>
                <p>
-                  <pb n="34" facs="tcp:000173_0037_0FA2B625CA2BCA50"/>
+                  <pb n="34" facs="unknown:000173_0037_0FA2B625CA2BCA50"/>
                   <hi>For the prevention of the breach of the Sabbath by the Indians within this Colony:</hi>
                </p>
                <p>It is Ordered by this Court; That whatever Indian or Indians shall labour or play on the Sabbath within the English limits,<note place="margin">Prophanation of the Sab. by Indi<g ref="char:EOLunhyphen"/>ans &amp;c penalty 5 s. or <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1768,7 +1768,7 @@ had from them after notice and due warning given them as abbettors, or at least 
                   <hi>FOrasmuch as there is a necessary use of Houses of Common Entertainment in every Jurisaiction, and of such as retail Beer, and Wine, and Victuals, yet be<g ref="char:EOLhyphen"/>cause there are so many abuses of that lawful liberty, both by persons entertaining, and persons entertained, there is also need of strict Laws and Rules to regulate such an imployment;</hi>
                </p>
                <p>It is therefore Ordered by the Authority of this Court; That no person or
-<pb n="35" facs="tcp:000173_0038_0FA2B626769C6860"/>
+<pb n="35" facs="unknown:000173_0038_0FA2B626769C6860"/>
 persons licensed for Common entertainment, shall suffer any to be Drunken,<note place="margin">Inkeepers to suffer <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> to be Drunk or <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1789,7 +1789,7 @@ persons licensed for Common entertainment, shall suffer any to be Drunken,<note 
                <p>It is also further Ordered; That no In-keeper, Victualler, Wine drawer, or other, shall deliver any Wine or Liquors, or suffer any to be delivered out of his House to any which come for it,<note place="margin">Wine or Liquors drawers to re<g ref="char:EOLhyphen"/>quire a note of what they deli<g ref="char:EOLhyphen"/>vered out of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>r house &amp;c</note> unless they bring a note under the hand of some one Master of a Family and allowed Inhabitant of that Town, and with such moderation for quantity as they may have reason to conceive it may not be abused, and shall be ready to give an accompt of their doings herein
-<pb n="36" facs="tcp:000173_0039_0FA2B62830414580"/>
+<pb n="36" facs="unknown:000173_0039_0FA2B62830414580"/>
 when they are called thereto under censure of the Court in case of delin<g ref="char:EOLhyphen"/>quency.</p>
             </div>
             <div type="law">
@@ -1824,7 +1824,7 @@ when they are called thereto under censure of the Court in case of delin<g ref="
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> that Colony in which he belongs</note>And also, that if any known Planters or setled Inhabitants dye intestate, Administration to be granted by that Colony unto which the deceased did be<g ref="char:EOLhyphen"/>long, though dying in another Colony: And the Administration being duely certified, to be of force for the gathering in of the Estate in the rest of the Co<g ref="char:EOLhyphen"/>lonies, as in the case of Wills proved where there is no just exception returned.
-<pb n="37" facs="tcp:000173_0040_0FA2B628B7A160F8"/>
+<pb n="37" facs="unknown:000173_0040_0FA2B628B7A160F8"/>
 But if any Person possessed of an Estate who is neither Planter nor setled In<g ref="char:EOLhyphen"/>habitant in any of the Colonies dye intestate,<note place="margin">unsetled person, dying intestate administrati<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n to be granted by the Colony he dyes in,</note> the Administration (If just cause besound to give Administration) be granted by that Colony where the person shall dye and depart this Life, and that care be taken by that Gover<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1882,7 +1882,7 @@ But if any Person possessed of an Estate who is neither Planter nor setled In<g 
                   <hi>FOr the prosecution of lascivious carriages and practices amongst us, which in re<g ref="char:EOLhyphen"/>gard of the variety of Circumstances, particular and express Laws cannot suddenly be suited.</hi>
                </p>
                <p>
-                  <pb n="38" facs="tcp:000173_0041_0FA2B62CC0403198"/>
+                  <pb n="38" facs="unknown:000173_0041_0FA2B62CC0403198"/>
                   <note place="margin">Lascivious car<g ref="char:EOLhyphen"/>riages to be pu<g ref="char:EOLhyphen"/>nished accord<g ref="char:EOLhyphen"/>ing to the dis<g ref="char:EOLhyphen"/>creti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n of the Bench &amp;c.</note>It is therefore Ordered by the Authority of this Court; That it shall be in the power of the County Courts to proceed against such offenders ei<g ref="char:EOLhyphen"/>ther by fine, committing to the house of Correction or other corporal pu<g ref="char:EOLhyphen"/>nishment according to their discretion, desiring such seasonable and exemplary executions may be done upon offenders in that kind that others may hear and fear.</p>
@@ -1969,7 +1969,7 @@ But if any Person possessed of an Estate who is neither Planter nor setled In<g 
                      </gap>
                   </note> or others, and their Oath given them for that end by one Assistant or Comissioner:</p>
                <p>And every Town<g ref="char:punc">▪</g> where need is shall chuse one or two persons honest and
-<pb n="39" facs="tcp:000173_0042_0FA2B62E6FA17758"/>
+<pb n="39" facs="unknown:000173_0042_0FA2B62E6FA17758"/>
 skilful within their Township,<note place="margin">Searcher<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -2029,7 +2029,7 @@ skilful within their Township,<note place="margin">Searcher<gap reason="illegibl
                         <desc>〈1 paragraph〉</desc>
                      </gap>
                   </note> That in case of Fines and Assessments to be levied, and Execution in civil actions, the Officer shall
-<pb n="40" facs="tcp:000173_0043_0FA2B62EC3460EF8"/>
+<pb n="40" facs="unknown:000173_0043_0FA2B62EC3460EF8"/>
 demand the same of the party, or at his house or place of usual abode, and upon refusal or non payment be shall have power (calling the Constable, if he see cause for his Assistance) to break open the door of any House, Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>st, or place where he shall have notice that any Goods lyable to such Levy or Execution shall be; and if he be to take the person he may do the like, if upon demand he shall refuse <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -2088,7 +2088,7 @@ demand the same of the party, or at his house or place of usual abode, and upon 
             <div type="law">
                <head>Licences and Liquors.</head>
                <p>IT is Ordered by this Court; That it shall be in the power of this Court, and in the power of the County Courts (within their respective Countyes) to
-<pb n="41" facs="tcp:000173_0044_0FA2B62FA87CCEA0"/>
+<pb n="41" facs="unknown:000173_0044_0FA2B62FA87CCEA0"/>
 grant Licenses to particular persons to Retail, Wine, Liquors,<note place="margin">Gen. Co. &amp; Coun<g ref="char:EOLunhyphen"/>ty Co to gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nt Licenses None to sell Liquors, Wine Cyder by retail without license pen. 5 s. p. quart</note> Cyder or strong Beer, and none else but such as are Licensed by this Court, or a County Court (without a Ticket from the Magistrate of the place where they dwell, men<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2151,7 +2151,7 @@ grant Licenses to particular persons to Retail, Wine, Liquors,<note place="margi
                         <desc>〈◊〉</desc>
                      </gap> Co. to be reproved &amp;c</note> That if any Member of any Court shall use Reproachful or Unbeseeming speeches or Behaviour to<g ref="char:EOLhyphen"/>wards any Magistrate, Judge or Member of the Court in the face of the Court, he shall be sharply Reproved by the Governour, or other Principal Judge of the said Court for the time being; And if the person so Reproved shall Reply again without leave, he shall be bound over to the next Superiour Court to make answer for the same.</p>
                <p>
-                  <pb n="42" facs="tcp:000173_0045_0FA2B63043266D50"/>
+                  <pb n="42" facs="unknown:000173_0045_0FA2B63043266D50"/>
                   <hi>And for preventing all occasions of Partial and Vndue Proceedings in Courts of justice, and avoiding of jealousies which may be taken up against <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>udges in that kinde;</hi>
@@ -2223,7 +2223,7 @@ grant Licenses to particular persons to Retail, Wine, Liquors,<note place="margi
                      </gap>sting, yet not to hinder the proceed of the Ship or Vessel, but that these <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> shall be liable to respond his
-<pb n="43" facs="tcp:000173_0046_0FA2B6317A17C3E0"/>
+<pb n="43" facs="unknown:000173_0046_0FA2B6317A17C3E0"/>
 part upon ensurance according to the custome of Merchants, which ensurance is to be de<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2292,7 +2292,7 @@ part upon ensurance according to the custome of Merchants, which ensurance is to
                   <head>
                      <hi>SECT.</hi> VIII.</head>
                   <p>No Master of Ship or Vessel shall saile into any Haven or Port, except ne<g ref="char:EOLhyphen"/>cessitated thereunto by Wind or Weather, or for want of Provision, or for Se<g ref="char:EOLhyphen"/>curity
-<pb n="44" facs="tcp:000173_0047_0FA2B631E9F4C8A0"/>
+<pb n="44" facs="unknown:000173_0047_0FA2B631E9F4C8A0"/>
 from Pirates, but such Port as by Charter Party, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> his Bill of <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2383,7 +2383,7 @@ from Pirates, but such Port as by Charter Party, o<gap reason="illegible" resp="
                      </gap>ke course shall be for cutting of Masts, and loss thereof, or Boats, Cables or Anchors, as also of Riggin and Sailes for the safety of the whole, the Merchant<g ref="char:punc">▪</g> Good are to bear a part of the loss,</p>
                </div>
                <div n="15" type="section">
-                  <pb n="45" facs="tcp:000173_0048_0FA2B6328EB71ED0"/>
+                  <pb n="45" facs="unknown:000173_0048_0FA2B6328EB71ED0"/>
                   <head>
                      <hi>SECT.</hi> XV.</head>
                   <p>In case a Ship or Vessel, at setting forth proves deficient,<note place="margin">Damage by an insufficient bo<g ref="char:EOLhyphen"/>tome</note> and gives over the Voyage, the Charges the Merchant hath sustained in Shipping and Landing his Goods, shall be born by the Master and Owners of such Vessel that presumes to take Goods into an insufficient Bottom.</p>
@@ -2435,7 +2435,7 @@ from Pirates, but such Port as by Charter Party, o<gap reason="illegible" resp="
                   <p>If any Marriner shall have receved any considerable part of his wages,<note place="margin">Runaway Marri<g ref="char:EOLhyphen"/>ners</note> and shall run away from the Ship or Vessel he belongs to, and decline the service of the Master in the prosecution of the Voyage, he shall be pursued as a disobe<g ref="char:EOLhyphen"/>dient Run-away servant, and proceeded with as such a one.</p>
                </div>
                <div n="24" type="section">
-                  <pb n="46" facs="tcp:000173_0049_0FA2B6333934E1D8"/>
+                  <pb n="46" facs="unknown:000173_0049_0FA2B6333934E1D8"/>
                   <head>
                      <hi>SECT.</hi> XXIV.</head>
                   <p>If any Marriner shall entertain any Person or Persons on Board the Ship or Vessel he sails in,<note place="margin">Marriners enter<g ref="char:EOLhyphen"/>taining without Maste<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2524,7 +2524,7 @@ from Pirates, but such Port as by Charter Party, o<gap reason="illegible" resp="
                         <desc>〈1 paragraph〉</desc>
                      </gap>
                   </note> shall joyn any persons together in Marriage, but the Magistrates, or such other as the General Court or Court of Assistants shall Authorize in such places where no Magistrate is near, nor shall any Ma<g ref="char:EOLhyphen"/>gistrate or other person as aforesaid, joyn any persons together in Marriage be<g ref="char:EOLhyphen"/>fore
-<pb n="47" facs="tcp:000173_0050_0FA2B63403A5F1D8"/>
+<pb n="47" facs="unknown:000173_0050_0FA2B63403A5F1D8"/>
 the parties to be Married have been published according to Law.</p>
             </div>
             <div type="law">
@@ -2581,7 +2581,7 @@ the parties to be Married have been published according to Law.</p>
                         <desc>〈…〉</desc>
                      </gap>
                   </note> or Constable and two of the chiefest Inhabitants where is no Assistant or Commissioner to press Men and Boats or Pinnaces (if occasion be at the publick charge to pursue such
-<pb n="48" facs="tcp:000173_0051_0FA2B634C62A1060"/>
+<pb n="48" facs="unknown:000173_0051_0FA2B634C62A1060"/>
 persons by Sea or Land, and bring them back by force.</p>
                <p>It is also Ordered by this Court; That if any Servant shall flee from the Tyranny or Cruelty of his or her Master to the House of any Inhabitant of the same Town,<note place="margin">Servan<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2654,7 +2654,7 @@ persons by Sea or Land, and bring them back by force.</p>
                   </gap> every such default to the County Treasury.</p>
             </div>
             <div type="law">
-               <pb n="49" facs="tcp:000173_0052_0FA2B635787FE9B8"/>
+               <pb n="49" facs="unknown:000173_0052_0FA2B635787FE9B8"/>
                <head>Military Affaires.</head>
                <p>
                   <hi>THat the Militia may be so managed as may best advantage the Publick Weal and Safety of this Colony;</hi>
@@ -2674,7 +2674,7 @@ persons by Sea or Land, and bring them back by force.</p>
                   </note> That every Train Band shall choose some suitable per<g ref="char:EOLhyphen"/>son of their Company to be Clerk of the said Company, who shall be Sworn to a faithful discharge of his place and office; and whosoever being chosen as aforesaid, shall refuse to accept of the said Office of Clerk, and taking the said Clerks Oath, he shall pay as a fine for the same <hi>forty shillings</hi> to the use of the Company; and all that refuse the said Place or Oath as before, shall pay <hi>forty shillings</hi> a piece (as before) till one doth accept the place, and he that doth hold the place shall have a fourth part of all fines for his labour.</p>
                <p>And it is also Ordered;<note place="margin">Clarks to attend days of exercise and to view Arms and to present all defects once a year at least</note> That the chief Officer of every Train-Band shall cause the Arms and Amunition of all under his command, to be viewed at least once in every year, by appointing them to bring forth their Arms and Amuni<g ref="char:EOLhyphen"/>tion at some time and place as he shall appoint, or by sending the Clerk from house to house to view them: And the Clerk shall every Training day give his attendance in the Field (except he hath special leave from his Captain or other chief Officer) to call over the Rolls of the Souldiers, and to take notice of their defects by their absence or otherwise,<note place="margin">Magistrates to punish defects</note> and he shall present to the next Assistant or Commissioner all Defects in Arms or Amunition, at least once in every year, and oftner if it be required, and the several Magistrates (and Commissioners in their respective Plantations) are hereby impowred to punish all Defects in that kinde according to the nature of the offence, wherein due care is to be had that wilful neglects in any do not pass without Sensure according to Law.</p>
                <p>
-                  <pb n="50" facs="tcp:000173_0053_0FA2B63702897D88"/>And whosoever shall be absent any of the dayes appointed for Training af<g ref="char:EOLhyphen"/>ter the honor appointed, or shall not continue the whole time, shall forfeit <hi>two shillings</hi> and <hi>six pence</hi> for every default in Corn or Money, except within <hi>fourteen</hi> dayes he bring a certificate to the Clerk,<note place="margin">
+                  <pb n="50" facs="unknown:000173_0053_0FA2B63702897D88"/>And whosoever shall be absent any of the dayes appointed for Training af<g ref="char:EOLhyphen"/>ter the honor appointed, or shall not continue the whole time, shall forfeit <hi>two shillings</hi> and <hi>six pence</hi> for every default in Corn or Money, except within <hi>fourteen</hi> dayes he bring a certificate to the Clerk,<note place="margin">
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ines for neglect of training 26 <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2727,7 +2727,7 @@ persons by Sea or Land, and bring them back by force.</p>
                      <desc>••</desc>
                   </gap>cording to the Rules of Military Discipline, and to exercise his Regiment both of Horse and foot according to his best skill as if he were to lead them forth a<g ref="char:EOLunhyphen"/>gainst an Enemy.</p>
                <p>
-                  <pb n="51" facs="tcp:000173_0054_0FA2B637B56E8B08"/>And further, it shall be in the power of the Sergeant Major: and he is hereby Or<g ref="char:EOLhyphen"/>dered once a year to call all the Commission officers of his Regiment to meet at such a time and place as he shall appoint,<note place="margin">Serg. Majors po<g ref="char:EOLhyphen"/>wer to call all Commission Offi<g ref="char:EOLhyphen"/>cers to meet him once a year, &amp;c</note> there to consult and consider together of the best way of managing their Military Affaires for the publick Advantage, and the said Major is to require an account of the several officers of his Regi<g ref="char:EOLhyphen"/>ment how their Companies are provided with Arms and Ammunition, and communicate to them such Orders and Instructions as he shall receive from the General Court from time to time.</p>
+                  <pb n="51" facs="unknown:000173_0054_0FA2B637B56E8B08"/>And further, it shall be in the power of the Sergeant Major: and he is hereby Or<g ref="char:EOLhyphen"/>dered once a year to call all the Commission officers of his Regiment to meet at such a time and place as he shall appoint,<note place="margin">Serg. Majors po<g ref="char:EOLhyphen"/>wer to call all Commission Offi<g ref="char:EOLhyphen"/>cers to meet him once a year, &amp;c</note> there to consult and consider together of the best way of managing their Military Affaires for the publick Advantage, and the said Major is to require an account of the several officers of his Regi<g ref="char:EOLhyphen"/>ment how their Companies are provided with Arms and Ammunition, and communicate to them such Orders and Instructions as he shall receive from the General Court from time to time.</p>
                <p>And it is by this Court Declared;<note place="margin">The Governour the General of al our Military Forces</note> That the Governour for the time being is the General of all the Military Forces within this Colony, but when we shall have occasion to send forth an Army against an Enemy: The General Court may appoint some Commander in chief for that service until the Forces <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> shall be dis banded.</p>
@@ -2762,7 +2762,7 @@ persons by Sea or Land, and bring them back by force.</p>
                   </gap>d measures, with an Instument to strike the dishes when Tole is taken.</p>
             </div>
             <div type="law">
-               <pb n="52" facs="tcp:000173_0055_0FA2B63AADA87618"/>
+               <pb n="52" facs="unknown:000173_0055_0FA2B63AADA87618"/>
                <head>Ministers Maintenance.</head>
                <p>
                   <hi>THis Court for the due encouragement and maintenance of the Ministry in all Societies and Congregations within this Colony,</hi>
@@ -2806,7 +2806,7 @@ persons by Sea or Land, and bring them back by force.</p>
                   <hi>Two Shillings</hi> and <hi>Six pence</hi> shall be to the Complainer out of each Fine, the rest to the publick Treasury. This Order extends to Sojourners and Boarders,<note place="margin">Constables to search for such offenders.</note> or any that make their aboade in this Colony above <hi>one Moneth</hi> and in case any be unable to pay their Fine, The Constable is hereby required to set such in the Stocks, there to continue one hour at least, and the Constable is also required as there shall be occasion to make search after such persons as shall transgress this Law.</p>
             </div>
             <div type="law">
-               <pb n="53" facs="tcp:000173_0056_0FA2B63AB7993EF0"/>
+               <pb n="53" facs="unknown:000173_0056_0FA2B63AB7993EF0"/>
                <head>OATHS.</head>
                <p>I A. B. being by the Providence of God an Inhabitant within the Colony of <hi>Connecticut</hi> do freely and sincerely acknowledge my self to be subject to the Government thereof,<note place="margin">The Oath of Fi<g ref="char:EOLhyphen"/>delity</note> and do Swear by the great and Dreadful Name of the Ever living God, that I will be true and faithful unto the same, and will accord<g ref="char:EOLhyphen"/>ingly as in duty I am bound yeild Assistance therunto with my person and estate and also will truely endeavour to maintain and preserve all the liberties and Priviledges thereof, submitting my self to the wholsome Orders and Laws made and established by lawful Authority, and further, that I will not plott or pra<g ref="char:EOLhyphen"/>ctice any evil against it, or consent to any that shall so do but will timely disco<g ref="char:EOLhyphen"/>ver the same to lawful Authority here established, for the speedy preventing hereof: So help me God in our Lord Jesus Christ.</p>
                <p>You A. B. being by the Providence of God an Inhabitant within the Jurisdi<g ref="char:EOLhyphen"/>ction of <hi>Conecticut</hi> being now to be made free,<note place="margin">The Freemans Oath</note> do acknowledge your self to be subject to the Government thereof, and do Swear by the great and fearful Name of the Ever-living God, to be true and faithful unto the same, and do submit both your person and estate thereunto, according to all the wholsom Laws and Orders that there are or hereafter shall be there made and established by lawful Authority, according to the tenor of the Charter granted to this Co<g ref="char:EOLhyphen"/>lony; and that you will neither Plot nor Practice any evil against the same, nor consent to any that shall so do, but will timely discover the same to lawful Authority here established; and that you will as in duty you are bound main<g ref="char:EOLhyphen"/>tain the honour of the same, and of the lawful Magistrates thereof promoteing the publick good of it whilest you shall so continue an Inhabitant there, and whensoever you shall give your Vote or Suffrage touching any matter which concerns this Colony being called thereunto, you will give it as in your Consci<g ref="char:EOLhyphen"/>ence you shall judge may conduce to the best good of the same, without re<g ref="char:EOLhyphen"/>spect of persons or favour of any man; So help you God in our Lord Jesus Christ.</p>
@@ -2819,7 +2819,7 @@ persons by Sea or Land, and bring them back by force.</p>
                      </gap> Oath</note> Do Swear by the Great Name of God, that you will according to the best of your skill attend the place &amp; Office<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> of a Treasurer for this Colony, in sending out your Warrants for Collecting all such Sums of Money as are due to the Colony by Fines, Rates or otherwise, and that you will pay out the same in such Sums, and in such manner as you
-<pb n="54" facs="tcp:000173_0057_0FA2B63C28122DC0"/>
+<pb n="54" facs="unknown:000173_0057_0FA2B63C28122DC0"/>
 shall be appointed to by the Court, as you shall have it in the Common Trea<g ref="char:EOLhyphen"/>sury, and that you will according to Law see the Constables make up their Accompts with you, or Fine them according to Law for their neglect, and that you will render a true Accompt of all things concerning your Office, when you are called thereunto by the General Court; So help you God, <hi>&amp;c.</hi>
                </p>
                <p>You <hi>I. A.</hi> Being chosen Secretary for the Colony of <hi>Conecticut</hi> for the year ensuing,<note place="margin">The Secretaries Oath.</note> and until a new be chosen. Do Swear by the Great Name of God, that you shall keep the Secrets of the Court, and carefully execute the place and Office of a Secretary according to the best of your skill, and shall truly and Faithfully record all Acts and Orders of the Court, and shall deliver true Copies and Certificates, when they shall be necessarily required of you; So help you God, <hi>&amp;c.</hi>
@@ -2842,7 +2842,7 @@ shall be appointed to by the Court, as you shall have it in the Common Trea<g re
                      <desc>•</desc>
                   </gap>mighty God, that you without re<g ref="char:EOLhyphen"/>spect of person or favour of any man well and truly Try,<note place="margin">The Iury of Life and Death their Oath.</note> and true deliverance make of such Prisoners at the Barr, as you shall have in Charge according to the evidence given you in Court, and the Laws of this Colony; So help you God in our Lord Jesus Christ.</p>
                <p>You do Swear by the Living God, that you will duely try the Causes now to be given you in charge between the Plaintiffe and Defendant,<note place="margin">The Petty Iuries Oath.</note> or Plaintiffs and Defendants, according to the Evidence given you in Court and the Laws of this Colony, and accordingly a true Verdict give, your own counsels and your Fellows you shall duely observe and keep, you shall speak nothing to any one of the Business and Matters you have in hand<g ref="char:punc">▪</g> but among your selves, nor shall you suffer any to speak unto you about the same but in Court, and when
-<pb n="55" facs="tcp:000173_0058_0FA2B63D84899F00"/>
+<pb n="55" facs="unknown:000173_0058_0FA2B63D84899F00"/>
 you are agreed of any Verdict you shall keep it secret till you deliver it up in Court; So help you God in our Lord Jesus Christ.</p>
                <p>You Swear by the Living God, that the Evidence you shall give to this Court concerning the case now in question shall be the Truth,<note place="margin">Witnesses Oath</note> the whole Truth and nothing but the Truth; So help you God in our Lord Jesus Christ.</p>
                <p>You <hi>C. D.</hi> Do Swear by the Great and Dreadful Name of God, that for the year ensueing, and until new be Chosen and Sworn,<note place="margin">Constables Oath</note> you will faithfully execute the Place and Office of a Constable for, and within the Plantation of <hi>H.</hi> and rhe limits thereof, and that you will endeavour to preserve the pub<g ref="char:EOLhyphen"/>lick peace of the said Place and Colony, and will do your best endeavour to see all Watches and Wards executed and duely attended, and to obey and execute all lawfal Commands or Warrants that come from any Magistrate or Magi<g ref="char:EOLhyphen"/>strates or Court, and execute all such Orders of Court as are committed to your care, according to your best skill; So help you God in our Lord Jesus Christ.</p>
@@ -2868,7 +2868,7 @@ you are agreed of any Verdict you shall keep it secret till you deliver it up in
                <p>It is Ordered by the Authority of this Court;<note place="margin">Oppression to be Punished.</note> That if any person or persons shall offend in any of the said Cases, he shall be punished by Fine or Impri<g ref="char:EOLhyphen"/>sonment according to the quality of the Offence, as the Court to which he is presented upon lawful Tryal and Conviction shall determine.</p>
             </div>
             <div type="law">
-               <pb n="56" facs="tcp:000173_0059_0FA2B63E0D1AD008"/>
+               <pb n="56" facs="unknown:000173_0059_0FA2B63E0D1AD008"/>
                <head>Peace breakers to be punished.</head>
                <p>IT is Ordered by this Court; That whosoever shall disturb the Peace by Tu<g ref="char:EOLhyphen"/>multuous and Offensive Carriages, Traducing, Quarrelling, Challenging, Assaulting, Beating, Striking any other person, he shall be liable to pay to the party hurt or stricken, just damages, together with such fine to the Publick Trea<g ref="char:EOLhyphen"/>sury, as on consideration of the party smiting or being smit, &amp; with what Instru<g ref="char:EOLhyphen"/>ment, danger more or less, time, place, provocation, &amp;c. shall be judged just and reasonable to the merit of the offence, according to the judgment of the Judges.</p>
             </div>
@@ -2912,7 +2912,7 @@ you are agreed of any Verdict you shall keep it secret till you deliver it up in
                         <desc>〈◊〉</desc>
                      </gap>
                      <g ref="char:punc">▪</g>
-                     <pb n="57" facs="tcp:000173_0060_0FA2B63E78362300"/>
+                     <pb n="57" facs="unknown:000173_0060_0FA2B63E78362300"/>
 Records and Alienations of Houses and Lands, that due form of Law not being lawfully attended which is requisite in such Affairs; For the prevention whereof, and that future trouble may be avoided, and that Righteousness and Justice may be mainta<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ned;</hi>
@@ -2952,7 +2952,7 @@ Records and Alienations of Houses and Lands, that due form of Law not being lawf
                      </gap>
                   </note> 
                   <hi>six pence</hi> to him or them that
-<pb n="58" facs="tcp:000173_0061_0FA2B63F390FF0D0"/>
+<pb n="58" facs="unknown:000173_0061_0FA2B63F390FF0D0"/>
 drive them to Pound, and <hi>two pence</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -3024,7 +3024,7 @@ drive them to Pound, and <hi>two pence</hi>
                   </note>IT is Ordered by the Authority of this Court, that no Person shall be twice sentenced by Civil Justice for one and the same Crime, Trespass or Offence, for bodily punishment, none shall be inflicted that are Inhumane, Barbarous or Cruel.</p>
             </div>
             <div type="law">
-               <pb n="59" facs="tcp:000173_0062_0FA2B64002EC5E08"/>
+               <pb n="59" facs="unknown:000173_0062_0FA2B64002EC5E08"/>
                <head>RATES.</head>
                <p>IT is Ordered by the Authority of this Court; That every Inhabirant shall <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -3065,7 +3065,7 @@ drive them to Pound, and <hi>two pence</hi>
                      <desc>•</desc>
                   </gap> selves.</p>
                <p>
-                  <pb n="60" facs="tcp:000173_0063_0FA2B640F71A0888"/>And it is further Ordered; That one of the Deputies in each Plantation throughout this Jurisdiction,<note place="margin">Dep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="60" facs="unknown:000173_0063_0FA2B640F71A0888"/>And it is further Ordered; That one of the Deputies in each Plantation throughout this Jurisdiction,<note place="margin">Dep<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> to meet <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
@@ -3116,7 +3116,7 @@ drive them to Pound, and <hi>two pence</hi>
                      </gap>
                   </note> and that man or men upon Petition to the General Court, shall have Order to collect the same again equally of the Town, with his just Damages for the same.</p>
                <p>
-                  <pb n="61" facs="tcp:000173_0064_0FA2B64179B909E0"/>And it is further Ordered by this Court; That if any person in this Colony shall refuse or neglect to give in a true account under his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="61" facs="unknown:000173_0064_0FA2B64179B909E0"/>And it is further Ordered by this Court; That if any person in this Colony shall refuse or neglect to give in a true account under his <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>and of his Cattle to the List makers or their Agents,<note place="margin">Cattle left out of the list to be for<g ref="char:EOLhyphen"/>feited</note> within six dayes after demanded in their respective Towns, or shall leave out any of them; he shall forfeit for every such default the estate left out, the one half to the Publick Treasury, and the other half to the persons discovering the same and prosecuting it to effect.</p>
                <p>It is further Ordered by this Court;<note place="margin">Collectors of r<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -3165,7 +3165,7 @@ drive them to Pound, and <hi>two pence</hi>
                      </gap>
                   </note> &amp; whosoever shall neglect three moneths to bring into the said Town Clerk a Note of his House and Lands, with the bounds and quantity of the same by the nearest estimation, shall forfeit <hi>ten shilling,</hi> and so <hi>ten shillings</hi> a month for every month he shall so neglect; the like to be done for all Lands hereafter granted and measured</p>
                <p>
-                  <pb n="62" facs="tcp:000173_0065_0FA2B6429C28F430"/>And if any Graunter being required by the Grauntee, his Heirs or Assignes to make an acknowledgement of any Graunt, Sale, Mortgage or Bargain by him made, shall refuse so to do, the Grantee may enter caution with the Recorder upon such Housing and Lands as are to him Graunted Bargained,<note place="margin">If Granters will not acknowledg Grants caution may be entred</note> Sold or Mort<g ref="char:EOLhyphen"/>gaged, which caution shall secure the interest of the Grauntee until a legal trial hath passed unto a final issue, upon which issue according to Law, the judge<g ref="char:EOLhyphen"/>ment of the Court being delivered to the Recorder under the Clerk of the Courts hand where the case was tryed shall be his Warrant to Record the said Graunt,<note place="margin">A Court Judge<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <pb n="62" facs="unknown:000173_0065_0FA2B6429C28F430"/>And if any Graunter being required by the Grauntee, his Heirs or Assignes to make an acknowledgement of any Graunt, Sale, Mortgage or Bargain by him made, shall refuse so to do, the Grantee may enter caution with the Recorder upon such Housing and Lands as are to him Graunted Bargained,<note place="margin">If Granters will not acknowledg Grants caution may be entred</note> Sold or Mort<g ref="char:EOLhyphen"/>gaged, which caution shall secure the interest of the Grauntee until a legal trial hath passed unto a final issue, upon which issue according to Law, the judge<g ref="char:EOLhyphen"/>ment of the Court being delivered to the Recorder under the Clerk of the Courts hand where the case was tryed shall be his Warrant to Record the said Graunt,<note place="margin">A Court Judge<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the Re<g ref="char:EOLhyphen"/>corders warrant to record a Grant</note> although the Graunter shall refuse to acknowledge the same.</p>
                <p>And it is also Ordered; That the Recorder shall receive <hi>six pence</hi> for every parcel of Land he Records, delivering the Owner a Copy of the same under his hand, whereof <hi>four pence</hi> shall be to himself, and <hi>two pence</hi> for the Clerk of the County,<note place="margin">Recorders dues</note> and the said Register shall every County Court deliver into the <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -3201,7 +3201,7 @@ drive them to Pound, and <hi>two pence</hi>
                   <hi>IT being one chief Project of Satan to keep men from the knowledge of the Scri<g ref="char:EOLhyphen"/>ptures, as in former times, keeping them in an unknown Tongue, so in these lat<g ref="char:EOLhyphen"/>ter times, by perswading them from the use of Tongues, so that at least the true sense and meaning of the Original might be clouded with false Glosses of Saint seeming deceivers; and that Learning might not be buried in the Graves of our fore-fathers in Church and Colony, the Lord assisting our endeavours:</hi>
                </p>
                <p>
-                  <pb n="63" facs="tcp:000173_0066_0FA2B644B33FF308"/>It is therefore Ordered by this Court and the Authority thereof; That eve<g ref="char:EOLhyphen"/>ry Township within this Jurisdiction,<note place="margin">Every Town where are 50 fa<g ref="char:EOLhyphen"/>milies to proved a Schoolmaster to teach to write and read, proviso</note> after the Lord hath increased them to the number of <hi>Fifty</hi> Householders shall then forthwith appoint one within their Town to teach all such Children as shall resort to him, to Write and Reade, whose Wages shall be paid either by the Parents or Masters of such Children, or by the Inhabitants in General by way of supply, as the major part of those who Order the Prudentials of the Town shall appoint; Provided that those who send their Children, be not oppressed by paying much more then they can have them taught for in other Towns.</p>
+                  <pb n="63" facs="unknown:000173_0066_0FA2B644B33FF308"/>It is therefore Ordered by this Court and the Authority thereof; That eve<g ref="char:EOLhyphen"/>ry Township within this Jurisdiction,<note place="margin">Every Town where are 50 fa<g ref="char:EOLhyphen"/>milies to proved a Schoolmaster to teach to write and read, proviso</note> after the Lord hath increased them to the number of <hi>Fifty</hi> Householders shall then forthwith appoint one within their Town to teach all such Children as shall resort to him, to Write and Reade, whose Wages shall be paid either by the Parents or Masters of such Children, or by the Inhabitants in General by way of supply, as the major part of those who Order the Prudentials of the Town shall appoint; Provided that those who send their Children, be not oppressed by paying much more then they can have them taught for in other Towns.</p>
                <p>And it is further Ordered; That in every County Town, there shall be set up and kept a Grammar School, for the use of the County,<note place="margin">In every County Town a Lattin School to be kept</note> the Master thereof being able to instruct Youths so far as they may be fitted for the Colledge.</p>
             </div>
             <div type="law">
@@ -3214,7 +3214,7 @@ drive them to Pound, and <hi>two pence</hi>
                         <desc>•</desc>
                      </gap> dues</note> The like dues for Recording of Wills and Invento<g ref="char:EOLhyphen"/>tories, granting of Warrants and Attachments, Replevins and Entries of Acti<g ref="char:EOLhyphen"/>ons, granting Executions is by this Court allowed to the several Clerks of the County Courts.</p>
                <p>This Court also appoints the Secretary to be keeper of the Seal of the Colo<g ref="char:EOLhyphen"/>ny, and to affix it to such Commissions,<note place="margin">The Secretary keeper of the Seal</note> Instruments and Certificates as he is
-<pb n="64" facs="tcp:000173_0067_0FA2B6453561B9C8"/>
+<pb n="64" facs="unknown:000173_0067_0FA2B6453561B9C8"/>
 Ordered by Law to do or shall be desired to by particular persons that have spe<g ref="char:EOLhyphen"/>cial occasion for the same,<note place="margin">For affixing the Seal 3. s: allowed</note> for which he shall be allowed besides his writing <hi>three shillings</hi> for affixing the Seal to any Instrument or Writing as aforesaid.</p>
             </div>
             <div type="law">
@@ -3249,7 +3249,7 @@ Ordered by Law to do or shall be desired to by particular persons that have spe<
                <p>IT is Ordered by this Court; That in all cases where it legally appears to the Court, that the Plaintif hath wittingly and willingly done wrong to the De<g ref="char:EOLhyphen"/>fendant, in commencing and prosecuting any Action, Suit, Complaint or In<g ref="char:EOLhyphen"/>dictment in his own Name or in the Name of others, he shall pay treble dama<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ges
-<pb n="65" facs="tcp:000173_0068_0FA2B6481E9EBAD8"/>
+<pb n="65" facs="unknown:000173_0068_0FA2B6481E9EBAD8"/>
 to the party grieved, and be fined <hi>forty shillings</hi> to the common Treasury; and for the third Offence in that kinde, he shall be judged and proceeded against as a common Barrater.</p>
             </div>
             <div type="law">
@@ -3317,7 +3317,7 @@ to the party grieved, and be fined <hi>forty shillings</hi> to the common Treasu
                      <desc>•</desc>
                   </gap> if any Inhabitant shall neglect or refuse to observe them, they shall have power to levy the appointed penalties by Distress.</p>
                <p>
-                  <pb n="66" facs="tcp:000173_0069_0FA2B5C82E9B1F30"/>It is also Ordered; That the settled &amp; approved Inhabitants of each Township shal have power to chuse yearly within each Township,<note place="margin">To chuse <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="66" facs="unknown:000173_0069_0FA2B5C82E9B1F30"/>It is also Ordered; That the settled &amp; approved Inhabitants of each Township shal have power to chuse yearly within each Township,<note place="margin">To chuse <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>elect men</note> convenient number of fit men to order the Prudential Occasions of the Town, provided nothing be done by them contrary to the publick Laws &amp; Orders of this Colony;<note place="margin">Proviso</note> Provided also, that the number of such Select persons be not above <hi>seven</hi> in one Township.</p>
                <p>Further <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -3352,7 +3352,7 @@ to the party grieved, and be fined <hi>forty shillings</hi> to the common Treasu
                <p>It is also Ordered; That it shall be in the power of the Treasurer at all times as cause requires, to issue forth his Warrants to the Marshal or Constable for the levying all fines and forfeitures as shall be due from any person or persons to the publick Treasury.</p>
             </div>
             <div type="law">
-               <pb n="67" facs="tcp:000173_0070_0FA2B5C5E6264028"/>
+               <pb n="67" facs="unknown:000173_0070_0FA2B5C5E6264028"/>
                <head>TRESPASSE.</head>
                <p>IT is Ordered by this Court;<note place="margin">What is not a Trespass</note> That in all Trespasses or Damage done to any man or men, if it can be proved to be done by the meer default of him or them to whom the Trespass is done, it shall be judged no Trespass, nor any da<g ref="char:EOLhyphen"/>mage given for it.</p>
             </div>
@@ -3383,7 +3383,7 @@ to the party grieved, and be fined <hi>forty shillings</hi> to the common Treasu
                      </gap>g whereof;</hi>
                </p>
                <p>
-                  <pb n="68" facs="tcp:000173_0071_0FA2B5C8C98A8140"/>It is Ordered by this Court; That no Vessel shall depart out of any Harbour within this Jurisdiction upon the Sabbath, without he hath upon some emer<g ref="char:EOLhyphen"/>gent occasion special Order from some Magistrate or Commissioner under his hand so to do, otherwise they shall forfeit to the publick Treasury <hi>forty shillings,</hi> a fourth part of which fine shall be to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="68" facs="unknown:000173_0071_0FA2B5C8C98A8140"/>It is Ordered by this Court; That no Vessel shall depart out of any Harbour within this Jurisdiction upon the Sabbath, without he hath upon some emer<g ref="char:EOLhyphen"/>gent occasion special Order from some Magistrate or Commissioner under his hand so to do, otherwise they shall forfeit to the publick Treasury <hi>forty shillings,</hi> a fourth part of which fine shall be to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>omplainer.</p>
             </div>
@@ -3412,7 +3412,7 @@ to the party grieved, and be fined <hi>forty shillings</hi> to the common Treasu
                <p>It is also Ordered; That the Watchman shall duely attend to receive their charge at the Constables house in the Evening,<note place="margin">The time of ta<g ref="char:EOLhyphen"/>king their charg</note> by the shutting in of the Day-light, and they are not to leave their Watch before the Day-light again, and whosoever shall be convicted of the breach of this Order shall forfeit <hi>two shil<g ref="char:EOLhyphen"/>lings six pence</hi> for every default; the one half to the Constable, the other to the benefit of the Watch.</p>
             </div>
             <div type="law">
-               <pb n="69" facs="tcp:000173_0072_0FA2B5C998053738"/>
+               <pb n="69" facs="unknown:000173_0072_0FA2B5C998053738"/>
                <head>WITNESSES.</head>
                <p>IT is Ordered by this Court;<note place="margin">No sufficient te<g ref="char:EOLhyphen"/>stimony without there be two</note> That no person for any Fact committed shall be put to death without the Testimony of two or three Witnesses, or that which is equivolent thereunto.</p>
                <p>And it is also Ordered; That any one Assistant or Commissioner may take the Testimony of any person of <hi>sixteen</hi> years of age, or above, of sound under<g ref="char:EOLhyphen"/>standing and reputation, in any case, Civil or Criminal<g ref="char:punc">▪</g> Provided,<note place="margin">Testimonies may be taken before one Magist<gap reason="illegible" resp="#PDCC" extent="4 letters">
@@ -3435,7 +3435,7 @@ to the party grieved, and be fined <hi>forty shillings</hi> to the common Treasu
             <div type="law">
                <head>Wrecks of the Sea.</head>
                <p>IT is Ordered by this Court; That if any Ships or other Vessels, be it Friend or Enemy, shall suffer Shipwrack upon our Coasts, there shall be no violence
-<pb n="70" facs="tcp:000173_0073_0FA2B5CA43829328"/>
+<pb n="70" facs="unknown:000173_0073_0FA2B5CA43829328"/>
 or wrong offered to their persons or goods, but their persons shall be harboured and relieved, and their goods preserved in safety till Authority may be certified, and shall take further order therein.</p>
             </div>
          </div>
@@ -3553,7 +3553,7 @@ or wrong offered to their persons or goods, but their persons shall be harboured
                </p>
             </div>
             <div type="form">
-               <pb n="71" facs="tcp:000173_0074_0FA2B5CB055E3CB0"/>
+               <pb n="71" facs="unknown:000173_0074_0FA2B5CB055E3CB0"/>
                <head>To the Constable of M. L.</head>
                <p>THese are in His Majesties Name to Will and Require you, to Warne all the Freemen who are Inhabitants of your Town, to meet at a time and place by you appointed;<note place="margin">Summons for choice of Depu<g ref="char:EOLhyphen"/>ties</note> To Elect one or two Able and Judicious Free<g ref="char:EOLhyphen"/>men, to attend the General Court to be holden at Hartford, the Second thurs<g ref="char:EOLhyphen"/>day in <hi>October</hi> next, as your Deputies, to Assist in the management of the Publick Affaires of this Colony, and you are to return the Name or Names of him or them you shall Elect, endorced on this Warrant under your hand, to the said Court or to the Secretary before the Court. Hereof Fail you not. Dated in H. the  <gap reason="blank" extent="1 word">
                      <desc> _____ </desc>
@@ -3645,7 +3645,7 @@ or wrong offered to their persons or goods, but their persons shall be harboured
                </item>
             </list>
             <list>
-               <pb facs="tcp:000173_0075_0FA2B5CD52CB4B68"/>
+               <pb facs="unknown:000173_0075_0FA2B5CD52CB4B68"/>
                <head>C.</head>
                <item>Capital Laws. Page. 9</item>
                <item>Candle-wood Page. 10</item>
@@ -3819,7 +3819,7 @@ or wrong offered to their persons or goods, but their persons shall be harboured
                </item>
             </list>
             <list>
-               <pb facs="tcp:000173_0076_0FA2B5CFCEAA3238"/>
+               <pb facs="unknown:000173_0076_0FA2B5CFCEAA3238"/>
                <head>G</head>
                <item>
                   <list>
@@ -3992,7 +3992,7 @@ or wrong offered to their persons or goods, but their persons shall be harboured
                   </list>
                </item>
                <item>
-                  <pb facs="tcp:000173_0077_0FA2B5D1182A0CE8"/>Levies Page. 39</item>
+                  <pb facs="unknown:000173_0077_0FA2B5D1182A0CE8"/>Levies Page. 39</item>
                <item>Lying Page. 41</item>
                <item>
                   <list>
@@ -4197,7 +4197,7 @@ or wrong offered to their persons or goods, but their persons shall be harboured
                </item>
             </list>
             <list>
-               <pb facs="tcp:000173_0078_0FA2B5D1CD7C7808"/>
+               <pb facs="unknown:000173_0078_0FA2B5D1CD7C7808"/>
                <head>R</head>
                <item>
                   <list>
